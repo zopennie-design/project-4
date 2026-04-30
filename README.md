@@ -1,4 +1,4 @@
-# Human Malate Dehygrogenase, MDH2
+# Human Malate Dehydrogenase, MDH2
 # Uniprot: P40926
 # P133L variation
 
@@ -15,7 +15,8 @@ Mitochondrial Malate Dehydrogenase, MDH2, is a metabolic enzyme that is importan
 
 
 1. image of the unmodified site
-![alt text](images/XXX.png)
+<img width="561" height="514" alt="image of the unmodified site" src="https://github.com/user-attachments/assets/309fc74a-c2c5-4600-b079-e7ce1c0b8875" />
+
 
 2. image of modification site
 ![alt text](images/XXX.png)
