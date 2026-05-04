@@ -19,7 +19,8 @@ Mitochondrial Malate Dehydrogenase, MDH2, is a metabolic enzyme that is importan
 
 
 2. image of modification site
-![alt text](images/XXX.png)
+<img width="561" height="514" alt="labeledmutationsite (1)" src="https://github.com/user-attachments/assets/295cc032-f939-4cce-97f0-f75612fa8d08" />
+
 
 
 ## Effect of the sequence variant on MDH dynamics
@@ -28,15 +29,18 @@ Compare the data on the variant to the project 2 data
 
 
 1. Image of aligned PDB files (no solvent)
-
+<img width="561" height="514" alt="Aligned PDB" src="https://github.com/user-attachments/assets/2effd99d-3d3d-4440-9489-8f59812c23cf" />
 2. Image of the site with the aligned PDB files (no solvent)
+<img width="561" height="514" alt="PDBmutationsite" src="https://github.com/user-attachments/assets/db546133-22eb-4393-8a03-14db63706fc7" />
 
 3. Annotated RMSF plot showing differences between the simulations
-![alt text](images/XXX.png)
+<img width="561" height="514" alt="Labeledrmsfplot" src="https://github.com/user-attachments/assets/ec2af846-e5a0-4825-8bca-2af35932d43b" />
+P133L mutation RMSF
+<img width="561" height="514" alt="Project2RMSF" src="https://github.com/user-attachments/assets/da20d6a7-fc6e-4cca-a2ed-db2ba0ba33b5" />
+Project 2 wild type RMSF
 
 4. Annotated plots of pKa for the key amino acids
-
-5. If needed, show ligand bound images and how modification affects substrate binding
+<img width="561" height="514" alt="Screenshot 2026-05-04 161020" src="https://github.com/user-attachments/assets/0ef56ef1-2dc3-405d-b41f-b52496e36484" />
 
 Description of the data and changes
 
