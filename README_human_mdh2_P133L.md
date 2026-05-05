@@ -82,6 +82,3 @@ This work is licensed under a
 4. Priestley, Jessica R. C., et al. “Malate Dehydrogenase 2 Deficiency Is an Emerging Cause of Pediatric Epileptic Encephalopathy with a Recognizable Biochemical Signature.” Molecular Genetics and Metabolism Reports, vol. 33, Dec. 2022, p. 100931. PubMed, https://doi.org/10.1016/j.ymgmr.2022.100931.
 5. Mol* Viewer. https://molstar.org/viewer/. Accessed 4 May 2026.
 6. https://server.intfold.com/. Accessed 4 May 2026.
-
-
-* Citation2 ![DOI](DOI link)
